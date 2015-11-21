@@ -93,7 +93,10 @@ form .aligned table p {
 }
 
 form .aligned p.help {
+<<<<<<< HEAD
     clear: left;
+=======
+>>>>>>> 6f820f85145fcfff1bffeb30f6f1eeba2afe481c
     padding-left: 38px;
 }
 

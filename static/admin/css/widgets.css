@@ -578,10 +578,13 @@ ul.orderer li.deleted:hover, ul.orderer li.deleted a.selector:hover {
 }
 
 /* RELATED WIDGET WRAPPER */
+<<<<<<< HEAD
 .related-widget-wrapper {
     float: left;       /* display properly in form rows with multiple fields */
     overflow: hidden;  /* clear floated contents */
 }
+=======
+>>>>>>> 6f820f85145fcfff1bffeb30f6f1eeba2afe481c
 
 .related-widget-wrapper-link {
     opacity: 0.3;
